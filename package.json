@@ -1,6 +1,6 @@
 {
     "name": "useclipboard",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "React hook for subscribing to clipboard",
     "main": "index.js",
     "repository": "https://github.com/Aniket965/useClipboard",
