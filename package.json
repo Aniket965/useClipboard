@@ -1,0 +1,25 @@
+{
+    "name": "useclipboard",
+    "version": "1.0.2",
+    "description": "React hook for subscribing to clipboard",
+    "main": "index.js",
+    "repository": "https://github.com/Aniket965/useClipboard",
+    "author": "Aniket Sharma <aniket965.as@gmail.com>",
+    "license": "MIT",
+    "publishConfig": {
+      "access": "public"
+    },
+    "keywords": [
+      "react",
+      "hooks",
+      "clipboard",
+      "browser"
+    ],
+    "dependencies": {
+      "react": "^16.7.0-alpha.0"
+    },
+    "devDependencies": {
+      "react-dom": "^16.7.0-alpha.0"
+    }
+  }
+  
